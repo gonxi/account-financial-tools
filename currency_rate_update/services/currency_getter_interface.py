@@ -86,7 +86,7 @@ class Currency_getter_interface(object):
         'TMM', 'TND', 'TOP', 'TRY', 'TTD', 'TVD', 'TWD', 'TZS', 'UAH', 'UGX',
         'USD', 'UYU', 'UZS', 'VEB', 'VEF', 'VND', 'VUV', 'WST', 'XAF', 'XAG',
         'XAU', 'XCD', 'XDR', 'XOF', 'XPD', 'XPF', 'XPT', 'YER', 'ZAR', 'ZMK',
-        'ZWD'
+        'ZWD', 'BTC'
     ]
 
     # Updated currency this arry will contain the final result

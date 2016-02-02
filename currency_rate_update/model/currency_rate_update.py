@@ -55,7 +55,7 @@ supported_currency_array = [
     "TMM", "TND", "TOP", "TRY", "TTD", "TVD", "TWD", "TZS", "UAH", "UGX",
     "USD", "UYU", "UZS", "VEB", "VEF", "VND", "VUV", "WST", "XAF", "XAG",
     "XAU", "XCD", "XDR", "XOF", "XPD", "XPF", "XPT", "YER", "ZAR", "ZMK",
-    "ZWD"
+    "ZWD","BTC"
 ]
 
 YAHOO_supported_currency_array = [
@@ -75,7 +75,7 @@ YAHOO_supported_currency_array = [
     "SRD", "STD", "SVC", "SYP", "SZL", "THB", "TJS", "TMT", "TND", "TOP",
     "TRY", "TTD", "TWD", "TZS", "UAH", "UGX", "USD", "UYU", "UZS", "VEF",
     "VND", "VUV", "WST", "XAF", "XAG", "XAU", "XCD", "XCP", "XDR", "XOF",
-    "XPD", "XPF", "XPT", "YER", "ZAR", "ZMW", "ZWL"]
+    "XPD", "XPF", "XPT", "YER", "ZAR", "ZMW", "ZWL", "BTC"]
 
 RO_BNR_supported_currency_array = [
     "AED", "AUD", "BGN", "BRL", "CAD", "CHF", "CNY", "CZK", "DKK", "EGP",
